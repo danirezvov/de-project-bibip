@@ -1,0 +1,10 @@
+# PyCharm
+.idea/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# tempdir for test
+temdir/
